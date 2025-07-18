@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## CodeGCFR is an aspiring software engineer and open source enthusiast.
+
 <!--
 **codegcfr/codegcfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
